@@ -1,0 +1,2 @@
+# nlp_FastText_classification
+Classification with FastText
